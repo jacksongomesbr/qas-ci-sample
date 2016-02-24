@@ -1,0 +1,1 @@
+Repositório para exemplificar utilização de testes de unidade e integração contínua com travis-ci.org.
