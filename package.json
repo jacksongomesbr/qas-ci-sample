@@ -1,0 +1,16 @@
+{
+  "name": "qas-ci-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha main.js -R spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "unit.js": "^2.0.0",
+    "mocha": "^2.4.5"
+  }
+}
